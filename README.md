@@ -2,8 +2,7 @@
 
 The Building Big Data Pipelines on GCP course equips participants with the skills and knowledge to design, and implement data pipelines on Google Cloud Platform. This course combines theoretical concepts with hands-on experience using GCP’s powerful suite of data engineering tools and services. 
 
-
-Course Planner : https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vT-roFOeq7ynM5RNQrnS6bUn3kK4enjsgVQx6eHbkgIxF0aKfwL1EzlUVDRVHdG8ZNCyIrGDtHpqQEO/pubhtml?gid=0&single=true&pli=1
+[Course Planner]([URL](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vT-roFOeq7ynM5RNQrnS6bUn3kK4enjsgVQx6eHbkgIxF0aKfwL1EzlUVDRVHdG8ZNCyIrGDtHpqQEO/pubhtml?gid=0&single=true&pli=1))
 
 # Naveen Pn (𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐞 𝐓𝐫𝐚𝐢𝐧𝐞𝐫) 
 
