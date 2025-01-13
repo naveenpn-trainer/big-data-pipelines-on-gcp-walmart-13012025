@@ -10,4 +10,3 @@ I am a Tech Enthusiast having 16+ years of experience in 𝐈𝐓 as a 𝐂𝐨�
 
 **LinkedIn :** https://linkedin.com/in/naveen-pn
 
-**Book a 1:1 session** : https://topmate.io/naveenpn
